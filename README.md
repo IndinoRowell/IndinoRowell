@@ -22,7 +22,8 @@ CSS
 
 📬 Connect With Me
 
-[💻 Facebook:](https://www.facebook.com/share/19yLRgQ5Sf/) 
+[Facebook](https://www.facebook.com/share/19yLRgQ5Sf/) 
 
+[LinkedIn](https://www.linkedin.com/in/rowell-indino-796388296?trk=contact-info) 
 
 📧 Personal Email: indinorowell@gmail.com
