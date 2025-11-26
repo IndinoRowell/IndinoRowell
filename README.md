@@ -16,11 +16,9 @@ SQL Database Management
 
 Java Programming
 
-HTML & CSS
+HTML
 
-Problem Solving
-
-Basic Frontend & Backend Concepts
+CSS
 
 📬 Connect With Me
 
