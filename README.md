@@ -1,14 +1,4 @@
-## Hi there 👋
-
-Name: Indino, Rowell I
-
-Education: 2nd Year - Bachelor Science of Information Technology
-
-Certifications: https://courses.cognitiveclass.ai/certificates/52741c72a1c34498979d59deb27d22b6
-
-Skillsets: SQL Database Management 
-
-👋 Hi there, I'm Rowell Indino
+ ## 👋 Hi there, I'm Rowell Indino
 
 🎓 Education
 
@@ -17,7 +7,7 @@ New Era University
 
 📜 Certifications
 
-[SQL And Relational Database 101]([https://your-link-here.com](https://courses.cognitiveclass.ai/certificates/52741c72a1c34498979d59deb27d22b6)
+[SQL And Relational Database 101] (https://courses.cognitiveclass.ai/certificates/52741c72a1c34498979d59deb27d22b6)
 
 
 🛠️ Skillsets
@@ -34,5 +24,5 @@ Basic Frontend & Backend Concepts
 
 📬 Connect With Me
 
-[💻 Facebook:] (https://www.facebook.com/share/19yLRgQ5Sf/) 
-[📧 Personal Email:] (indinorowell@gmail.com) 
+[💻 Facebook:](https://www.facebook.com/share/19yLRgQ5Sf/) 
+[📧 Personal Email:](indinorowell@gmail.com) 
