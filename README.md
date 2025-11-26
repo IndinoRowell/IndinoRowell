@@ -7,7 +7,7 @@ New Era University
 
 📜 Certifications
 
-[SQL And Relational Database 101] (https://courses.cognitiveclass.ai/certificates/52741c72a1c34498979d59deb27d22b6)
+[SQL & Relational Databases 101](https://courses.cognitiveclass.ai/certificates/52741c72a1c34498979d59deb27d22b6)
 
 
 🛠️ Skillsets
@@ -25,4 +25,6 @@ Basic Frontend & Backend Concepts
 📬 Connect With Me
 
 [💻 Facebook:](https://www.facebook.com/share/19yLRgQ5Sf/) 
+
+
 [📧 Personal Email:](indinorowell@gmail.com) 
