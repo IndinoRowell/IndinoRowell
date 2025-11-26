@@ -1,4 +1,4 @@
- ## 👋 Hi there, I'm Rowell Indino
+## 👋 Hi there, I'm Rowell Indino
 
 🎓 Education
 
@@ -25,4 +25,4 @@ CSS
 [💻 Facebook:](https://www.facebook.com/share/19yLRgQ5Sf/) 
 
 
-[📧 Personal Email:](indinorowell@gmail.com) 
+📧 Personal Email: indinorowell@gmail.com
