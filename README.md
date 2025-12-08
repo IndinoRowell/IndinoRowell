@@ -10,11 +10,27 @@ Passionate about building systems, solving problems, and continuously learning n
 ---
 
 ## 🎓 **Education**
-**Bachelor of Science in Information Technology (2nd Year)**  
-New Era University  
 
-**Science, Technology and Mathematics – Specialization in Aeronautics (Senior High School)**  
-Far Eastern Air Transport University
+<table>
+  <tr>
+    <td width="60">
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/New_Era_University.svg/1200px-New_Era_University.svg.png" width="50" alt="New Era University Logo">
+    </td>
+    <td>
+      <strong>Bachelor of Science in Information Technology (2nd Year)</strong><br>
+      New Era University
+    </td>
+  </tr>
+  <tr>
+    <td width="60">
+      <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/FEATI_University_Logo.png" width="50" alt="FEATI University Logo">
+    </td>
+    <td>
+      <strong>Science, Technology and Mathematics – Specialization in Aeronautics (Senior High School)</strong><br>
+      Far Eastern Air Transport University
+    </td>
+  </tr>
+</table>
 
 ---
 
