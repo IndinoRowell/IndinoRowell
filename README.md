@@ -36,28 +36,6 @@ New Era University
 
 ---
 
-## 📊 **GitHub Stats**
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RowellIndino&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RowellIndino&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 **GitHub Streak**
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RowellIndino&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 **Activity Graph**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RowellIndino&theme=tokyo-night" />
-</p>
-
----
-
 ## 📬 **Connect With Me**
 - **Facebook:** [facebook.com/share/19yLRgQ5Sf](https://www.facebook.com/share/19yLRgQ5Sf/)  
 - **Email:** **indinorowell@gmail.com**
