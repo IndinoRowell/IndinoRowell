@@ -1,16 +1,14 @@
-<!-- Banner -->
+# 👋 Hi, I'm **Rowell Indino**
+## Aspiring IT Professional | BSIT 2nd Year • New Era University  
+Passionate about building systems, solving problems, and continuously learning new technologies.
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Rowell%20Indino&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=32" />
 </p>
 
 ---
-
-## 👋 Hi, I'm **Rowell Indino**
-### Aspiring IT Professional | BSIT 2nd Year • New Era University  
-Passionate about building systems, solving problems, and continuously learning new technologies.
-
----
-
 ## 🎓 **Education**
 **Bachelor of Science in Information Technology (2nd Year)**  
 New Era University  
