@@ -5,7 +5,7 @@ Passionate about building systems, solving problems, and continuously learning n
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Rowell%20Indino&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=32" />
+  <img src="[https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Rowell%20Indino&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=32](https://capsule-render.vercel.app/api?type=egg&height=300&color=gradient&text=Rowell%20Igloso%20Indino&section=header&textBg=false&fontSize=65&animation=twinkling&fontAlign=50)" />
 </p>
 
 ---
