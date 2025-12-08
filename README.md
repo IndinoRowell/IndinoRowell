@@ -1,21 +1,19 @@
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=egg&height=300&color=gradient&text=Rowell%20Igloso%20Indino&section=header&textBg=false&fontSize=65&animation=twinkling&fontAlign=50" />
+</p>
+
 # 👋 Hi, I'm **Rowell Indino**
 ## Aspiring IT Professional | BSIT 2nd Year • New Era University  
 Passionate about building systems, solving problems, and continuously learning new technologies.
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=egg&height=300&color=gradient&text=Rowell%20Igloso%20Indino&section=header&textBg=false&fontSize=65&animation=twinkling&fontAlign=50" />
-</p>
-
-
----
 ## 🎓 **Education**
 **Bachelor of Science in Information Technology (2nd Year)**  
 New Era University  
 
-**Science, Technology and Mathematics - Specialization in Aeronautics (Senior High School)**
-
+**Science, Technology and Mathematics – Specialization in Aeronautics (Senior High School)**  
 Far Eastern Air Transport University
 
 ---
@@ -27,6 +25,7 @@ Far Eastern Air Transport University
 ---
 
 ## 🛠️ **Technologies & Skills**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,mysql,html,css,git,github,vscode" />
 </p>
@@ -45,6 +44,7 @@ Far Eastern Air Transport University
 
 ---
 
+<!-- Footer Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
 </p>
