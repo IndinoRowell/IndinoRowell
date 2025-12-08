@@ -11,10 +11,12 @@ Passionate about building systems, solving problems, and continuously learning n
 
 ## 🎓 **Education**
 
+## 🎓 **Education**
+
 <table>
   <tr>
-    <td width="60">
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/New_Era_University.svg/1200px-New_Era_University.svg.png" width="50" alt="New Era University Logo">
+    <td width="90">
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/New_Era_University.svg/1200px-New_Era_University.svg.png" width="80" alt="New Era University Logo">
     </td>
     <td>
       <strong>Bachelor of Science in Information Technology (2nd Year)</strong><br>
@@ -22,8 +24,8 @@ Passionate about building systems, solving problems, and continuously learning n
     </td>
   </tr>
   <tr>
-    <td width="60">
-      <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/FEATI_University_Logo.png" width="50" alt="FEATI University Logo">
+    <td width="90">
+      <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/FEATI_University_Logo.png" width="80" alt="FEATI University Logo">
     </td>
     <td>
       <strong>Science, Technology and Mathematics – Specialization in Aeronautics (Senior High School)</strong><br>
@@ -31,6 +33,7 @@ Passionate about building systems, solving problems, and continuously learning n
     </td>
   </tr>
 </table>
+
 
 ---
 
