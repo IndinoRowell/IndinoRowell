@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="banner.png" alt="Hi, I'm Rowell Indino" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=Rowell%20Indino&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
+
 
 ## 👋 Hi there, I'm **Rowell Indino**
 
