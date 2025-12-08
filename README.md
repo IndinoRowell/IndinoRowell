@@ -13,6 +13,9 @@ Passionate about building systems, solving problems, and continuously learning n
 **Bachelor of Science in Information Technology (2nd Year)**  
 New Era University  
 
+**Science, Technology and Mathematics - Specialization in Aeronautics (Senior High School)**
+Far Eastern Air Transport University
+
 ---
 
 ## 📜 **Certifications**
