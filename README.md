@@ -11,8 +11,6 @@ Passionate about building systems, solving problems, and continuously learning n
 
 ## 🎓 **Education**
 
-## 🎓 **Education**
-
 <table>
   <tr>
     <td width="90">
@@ -33,7 +31,6 @@ Passionate about building systems, solving problems, and continuously learning n
     </td>
   </tr>
 </table>
-
 
 ---
 
