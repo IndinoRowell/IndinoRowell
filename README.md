@@ -38,7 +38,7 @@ Passionate about building systems, solving problems, and continuously learning n
 - [SQL & Relational Databases 101](https://courses.cognitiveclass.ai/certificates/52741c72a1c34498979d59deb27d22b6)  
 - [OCI Foundations Associate (2025)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=45DC8C724EF55BEB6C7DC33245142A2CAD2DF2732D57BBD9926FE08D10B56D16)
 - [Oracle Data Platform Foundations Associate (2025)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=869FB96AB99824BF5DBD7F5C736ED1D397EE79C3D6A60BA2F2D405D860C4F5BF)
-- [Gemini Certified University Student]([https://catalog-education.oracle.com/ords/certview/sharebadge?id=869FB96AB99824BF5DBD7F5C736ED1D397EE79C3D6A60BA2F2D405D860C4F5BF](https://edu.google.accredible.com/1e5c1d86-7449-4295-95b0-4b5879be8070#acc.2lY06cST))
+- [Gemini Certified University Student](https://edu.google.accredible.com/1e5c1d86-7449-4295-95b0-4b5879be8070#acc.2lY06cST)
 
   
 ---
