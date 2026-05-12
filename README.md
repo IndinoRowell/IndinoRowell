@@ -62,6 +62,7 @@ I am Rowell Indino, with a flair for coding and database management skills. I th
 ## 📬 **Connect With Me**
 - **Facebook:** [facebook.com/share/19yLRgQ5Sf](https://www.facebook.com/share/19yLRgQ5Sf/)  
 - **Email:** **indinorowell@gmail.com**
+- **LinkedIn:** [https://www.linkedin.com/in/rowell-indino-796388296/](https://www.linkedin.com/in/rowell-indino-796388296/)
 
 ---
 
