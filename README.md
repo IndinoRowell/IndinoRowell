@@ -47,14 +47,15 @@ I am Rowell Indino, with a flair for coding and database management skills. I th
 ## 🛠️ **Technologies & Skills**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,git,github,vscode,mongodb," />
 </p>
 
 - SQL Database Management  
 - Java Programming  
 - HTML & CSS  
 - Basic Git & GitHub  
-- UI/UX Fundamentals  
+- UI/UX Fundamentals
+- MongoDB
 
 ---
 
