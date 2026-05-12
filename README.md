@@ -14,7 +14,7 @@ Passionate about building systems, solving problems, and continuously learning n
 <table>
   <tr>
     <td width="90">
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/New_Era_University.svg/1200px-New_Era_University.svg.png" width="80" alt="New Era University Logo">
+      <img src="https://en.wikipedia.org/wiki/New_Era_University#/media/File:New_Era_University.svg">
     </td>
     <td>
       <strong>Bachelor of Science in Information Technology (2nd Year)</strong><br>
@@ -39,6 +39,7 @@ Passionate about building systems, solving problems, and continuously learning n
 - [OCI Foundations Associate (2025)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=45DC8C724EF55BEB6C7DC33245142A2CAD2DF2732D57BBD9926FE08D10B56D16)
 - [Oracle Data Platform Foundations Associate (2025)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=869FB96AB99824BF5DBD7F5C736ED1D397EE79C3D6A60BA2F2D405D860C4F5BF)
 - [Gemini Certified University Student](https://edu.google.accredible.com/1e5c1d86-7449-4295-95b0-4b5879be8070#acc.2lY06cST)
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/8ee36cd5bc75441b836df5fdb2bb9e07)
 
   
 ---
