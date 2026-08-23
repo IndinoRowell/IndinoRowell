@@ -4,7 +4,7 @@
 </p>
 
 # 👋 Hi, I'm **Rowell Indino**
-## Aspiring IT Professional | BSIT 2nd Year • New Era University  
+## Aspiring IS Professional | BSIS 3rd Year • New Era University  
 I am Rowell Indino, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.
 
 ---
