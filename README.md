@@ -17,7 +17,7 @@ I am Rowell Indino, with a flair for coding and database management skills. I th
       <img src="https://upload.wikimedia.org/wikipedia/en/c/c6/New_Era_University.svg">
     </td>
     <td>
-      <strong>Bachelor of Science in Information Technology (2nd Year)</strong><br>
+      <strong>Bachelor of Science in Information Systems (3rd Year)</strong><br>
       New Era University
     </td>
   </tr>
